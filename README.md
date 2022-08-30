@@ -21,3 +21,7 @@ This project transfers over a YT Playlist of songs and makes a new playlist on s
 Once you get all the items needed from above, run the spotifySide.py file, you may need to install python on your system before you can run the files but a simple how to install python your_OS_here on google will help you, replace your_OS_here with Windows/Mac/LinuxDistro whatever youre using.
 
 When you successfully run the python file, it will ask for a client id/client secret and API key from you. Once feeded a browser window should open up and you will need to copy the entire URL and head back to your spotify dashboard where you got your client id and secret from. Once there click on edit settings and paste the URL on redirect URLs and click add. You will only need to do this once. Once added to your dashboard, the same URL can be entered as the scrip will ask for a URL as well.
+
+After that, you should be able to go through with the script without neeeding any help.
+
+If you still have any questions...you can always add it to issues on here and I will take a look and help you as soon as I can get to it.

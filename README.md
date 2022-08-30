@@ -7,6 +7,7 @@ This project transfers over a YT Playlist of songs and makes a new playlist on s
 2. Spotipy for Spotify API | Reference: https://spotipy.readthedocs.io/en/master/
 
 # Getting Started
+PLEASE DOWNLOAD BOTH THE PYTHON FILES AND SAVE THEM IN THE SAME FOLDER/DIRECTORY
 **For Spotify Client Secret and Client ID:**
 1. Log onto developer.spotify.com and then click DASHBOARD on the menu at the top of the page.
 2. Once logged in click on create an app, once created you will see the CLient ID and to view your client secret click in SHOW CLIENT SECRET
@@ -25,3 +26,5 @@ When you successfully run the python file, it will ask for a client id/client se
 After that, you should be able to go through with the script without neeeding any help.
 
 If you still have any questions...you can always add it to issues on here and I will take a look and help you as soon as I can get to it.
+
+This is a work in progress and some songs might not be added and a known issue is that another artist has a song which is named the same, the script might add that song instead of the one on the playlist, but as mentioned before please add issues to this repo and I will get back as soon as I can.

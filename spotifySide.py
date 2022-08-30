@@ -5,7 +5,7 @@ print("WELCOME TO YT2SPOTIFY!! \nPLEASE READ THE README.md on my github for the 
 secret = str(input("Enter the Client Secret: "))
 client_id = str(input("Enter the Client ID: "))
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id= client_id, client_secret= secret, redirect_uri='https://accounts.spotify.com/authorize?client_id=85297708ec594fc18e1b506359722c84&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8888%2Fcallback+&scope=user-library-read',scope='user-library-read user-read-playback-state app-remote-control user-modify-playback-state playlist-modify-public playlist-modify-private'))
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id= client_id, client_secret= secret, redirect_uri='http://localhost/',scope='user-library-read user-read-playback-state app-remote-control user-modify-playback-state playlist-modify-public playlist-modify-private'))
 
 global resultDict
 resultDict = {}

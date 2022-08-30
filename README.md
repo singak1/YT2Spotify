@@ -6,7 +6,7 @@ This project transfers over a YT Playlist of songs and makes a new playlist on s
 1. Youtube v3 Data | Reference: https://developers.google.com/youtube/v3/docs
 2. Spotipy for Spotify API | Reference: https://spotipy.readthedocs.io/en/master/
 
-#Getting Started
+# Getting Started
 **For Spotify Client Secret and Client ID:**
 1. Log onto developer.spotify.com and then click DASHBOARD on the menu at the top of the page.
 2. Once logged in click on create an app, once created you will see the CLient ID and to view your client secret click in SHOW CLIENT SECRET

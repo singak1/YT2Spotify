@@ -27,5 +27,4 @@ After that, you should be able to go through with the script without neeeding an
 
 If you still have any questions...you can always add it to issues on here and I will take a look and help you as soon as I can get to it.
 
-**This is a work in progress and some songs might not be added and a known issue is that another artist has a song which is named the same, the script might add that song instead of the one on the playlist, but as mentioned before please add issues to this repo and I will get back as soon as I can.
-**
+**This is a work in progress and some songs might not be added and a known issue is that another artist has a song which is named the same, the script might add that song instead of the one on the playlist, but as mentioned before please add issues to this repo and I will get back as soon as I can.**
